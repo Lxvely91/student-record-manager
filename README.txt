@@ -22,7 +22,3 @@ A beginner-friendly Python GUI application to manage student records using Tkint
 1. Start XAMPP and launch MySQL.
 2. Create a database named `student_db` in phpMyAdmin.
 3. Run the Python file to start the app.
-
-## Author
-
-Made with guidance from Nova (OpenAI's ChatGPT).
